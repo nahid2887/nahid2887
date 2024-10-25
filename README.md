@@ -1,6 +1,5 @@
 ## Who am I ?
-I am a third-year student at Bangladesh University of Business and Technology (BUBT) currently doing my Bachelor's in Computer Engineering. 
-I am an open-source Contributor and a web development addict.
+👋 Hi, I'm Md Nahid Hasan, a Computer Engineering graduate from the Bangladesh University of Business and Technology (BUBT). I'm passionate about web development and an active open-source contributor. Always eager to learn and build innovative solutions.
 
 <!--
 **nahid2887/nahid2887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
